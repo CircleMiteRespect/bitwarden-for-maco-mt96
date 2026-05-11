@@ -1,4 +1,4 @@
-# 
+# smart Bitwarden for macOS Automation | encryption + malware-scanning offers the most advanced Bitwarden for macOS automation, with encryption and malware-scanning. Ideal for macOS
 
 
 
